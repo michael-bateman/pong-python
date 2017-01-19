@@ -195,4 +195,4 @@ while True:
 
                 if balls == 0:
                     screen.fill((0,0,0))
-                    score = 00
+                    score = 0
